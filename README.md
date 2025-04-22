@@ -35,8 +35,8 @@ run postgre and setup db
 ```bash
 psql -U postgres
 ```
-How to connect the frontend with backend
-Run this backend with the command:
+## How to connect the frontend with backend
+
 ```bash
 ./mvnw spring-boot:run
 ```
